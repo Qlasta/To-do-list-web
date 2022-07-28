@@ -1,0 +1,91 @@
+h1 {
+    font-weight: bold;
+    color: #544f4f;
+    font-family: 'Exo 2', sans-serif;
+}
+.record-actions {
+    width: 0.9rem;
+}
+
+.marked-done {
+    color: #857F7F;
+}
+
+.edit-record {
+    margin: 12px 12px 12px 0;
+}
+
+.save-btn {
+    margin: auto auto auto 12px;
+}
+
+.footer-links {
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+.icons-copyright {
+    font-size: 12px;
+    color: #857F7F;
+}
+
+.main-buttons {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.front-img-container {
+
+}
+
+.landing-img {
+    width: 1500px;
+    position: absolute;
+    z-index: -1;
+}
+
+.heading {
+    margin-bottom: 300px;
+    color: #857F7F;
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+#brand-name {
+    color: #857F7F;
+    font-family: 'Exo 2', sans-serif;
+}
+
+body{
+    margin: 0;
+
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
+    text-align: left;
+    background-color: #f5f8fa;
+}
+
+
+
+
+
+
+.my-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.login-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
